@@ -6,7 +6,7 @@ export const environment = {
     botcredendialsURL: 'CHANGE-IT',
     remoteConfig: true, 
     remoteConfigUrl: './dashboard-config.json',
-    SERVER_BASE_URL: 'https://api.tiledesk.com/v2/',
+    SERVER_BASE_URL: 'https://tiledesk-server-production.up.railway.app',
     CHAT_BASE_URL: '../chat/',
     testsiteBaseUrl: 'https://api.tiledesk.com/v2/widgets/test/load',
     wsUrl: 'wss://eu.rtm.tiledesk.com/v2/ws/',

@@ -1,3 +1,4 @@
+import { element } from 'protractor';
 import { Component, EventEmitter, Input, OnInit, Output, ElementRef } from '@angular/core';
 import { AuthService } from 'app/core/auth.service';
 import { LoggerService } from 'app/services/logger/logger.service';
