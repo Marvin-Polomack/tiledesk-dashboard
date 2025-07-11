@@ -1,4 +1,3 @@
-import { element } from 'protractor';
 import { Component, ElementRef, EventEmitter, Input, OnInit, Output } from '@angular/core';
 import { DomSanitizer } from '@angular/platform-browser';
 import { LoggerInstance } from 'app/services/chat21-core/providers/logger/loggerInstance';
